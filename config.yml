@@ -1,0 +1,11 @@
+---
+:debug: true
+:game_name: Dungeons&Monsters
+:screen_resolution:
+- 480
+- 380
+:max_fps: 60
+:version:
+  :major: 0
+  :minor: 0
+  :patch: 0
